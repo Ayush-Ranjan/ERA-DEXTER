@@ -105,7 +105,7 @@
           <geometry>
             <mesh>
               <scale>0.001 0.001 0.001</scale>
-              <uri>/home/ayush/ros_projects/maze/src/puzzle_maze_description/meshes/base_link.stl</uri>
+              <uri>package://robot_description/worlds/my_maze/base_link.stl </uri>
             </mesh>
           </geometry>
           <surface>
@@ -131,7 +131,7 @@
           <geometry>
             <mesh>
               <scale>0.001 0.001 0.001</scale>
-              <uri>/home/ayush/ros_projects/maze/src/puzzle_maze_description/meshes/base_link.stl</uri>
+              <uri>package://robot_description/worlds/my_maze/base_link.stl</uri>
             </mesh>
           </geometry>
           <material>
