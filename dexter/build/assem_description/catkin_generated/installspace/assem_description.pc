@@ -1,0 +1,8 @@
+prefix=/home/ayush/ros_projects/dexter/install
+
+Name: assem_description
+Description: Description of assem_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

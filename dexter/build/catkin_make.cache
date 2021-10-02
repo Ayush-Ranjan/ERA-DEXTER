@@ -1,0 +1,2 @@
+robot_description
+-DCATKIN_DEVEL_PREFIX=/home/ayush/ros_projects/dexter/devel -DCMAKE_INSTALL_PREFIX=/home/ayush/ros_projects/dexter/install -G Unix Makefiles
